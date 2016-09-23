@@ -1,73 +1,72 @@
 <html>
-<body>
+<body bgcolor="white">
 
-<h1>微信小程序资源汇总</h1>
-<h2>转至卖桃者说</h2>
+<h1 微信小程序资源汇总 align="center"> </h1>
+<h2><br />转至卖桃者说</h2>
 <p>一个项目，总结了微信小程序各方的资源，网址是：
-<a href="https://github.com/Aufree/awesome-wechat-weapp
-内容摘录如下：
-开源项目
-wechatApp-demo(<a href="https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
-weapp-ide-crack(<a href="https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
-API(<a href="https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
-weapp-quick(<a href="https://github.com/phodal/weapp-quick) - 微信小应用示例代码
-文档
-简易教程(<a href="http://wxopen.notedown.cn/">This is a link</a>)
-开发者工具文档(<a href="http://wxopen.notedown.cn/devtools/devtools.html">This is a link</a>)
-API 文档(<a href="http://wxopen.notedown.cn/api/">This is a link</a>)
-视图组件文档(<a href="http://wxopen.notedown.cn/component/">This is a link</a>)
-常见问题(<a href="http://wxopen.notedown.cn/qa/qa.html">This is a link</a>)
-教程
-微信小程序开发文档(<a href="http://wxopen.notedown.cn/">This is a link</a>)
-微信公众平台 API 文档 - GitHub(<a href="https://github.com/Notedown-cn/wxopen">This is a link</a>)
-微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿(<a href="http://www.ifanr.com/721124">This is a link</a>)
-首个微信小程序开发教程！(<a href="http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7">This is a link</a>)
-抢先看：微信官方发布的微信应用号（小程序）设计规范(<a href="http://www.woshipm.com/ucd/418190.html">This is a link</a>)
-开发微信小程序入门前(<a href="https://laravel-china.org/topics/2890">This is a link</a>)
-微信小程序开发教程！(<a href="https://xituqu.com/508.html">This is a link</a>)
-微信小程序开发环境搭建(<a href="http://blog.csdn.net/xiehuimx/article/details/52629657">This is a link</a>)
-全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！(<a href="https://my.oschina.net/wwnick/blog/750055">This is a link</a>)
-微信小程序「官方示例代码」浅析【上】(<a href="https://zhuanlan.zhihu.com/p/22574282">This is a link</a>)
-微信小程序「官方示例代码」浅析【下】(<a href="https://zhuanlan.zhihu.com/p/22579053">This is a link</a>)
-知乎讨论
-如何评价 9 月 21 日开始内测的「微信小程序」？(<a href="https://www.zhihu.com/question/50874500">This is a link</a>)
-如何看待微信将推应用号？(<a href="https://www.zhihu.com/question/39374074">This is a link</a>)
-微信小程序（应用号）价值是什么？(<a href="https://www.zhihu.com/question/50875544">This is a link</a>)
-开始内测的「微信公众平台 · 小程序」可能有哪些应用场景？(<a href="https://www.zhihu.com/question/50871887">This is a link</a>)
-微信小程序（应用号）来了，对创业者来说到底是不是好机会？(<a href="https://www.zhihu.com/question/50885176">This is a link</a>)
-微信小程序的出现会给前端开发带来什么？(<a href="https://www.zhihu.com/question/50900987">This is a link</a>)
-微信应用号是否真能颠覆APP？(<a href="https://www.zhihu.com/question/50878415">This is a link</a>)
-在微信应用号（微信小程序）开发什么什么应用爆发概率大？(<a href="https://www.zhihu.com/question/50878674">This is a link</a>)
-如何获得「微信·小程序」的内测资格？(<a href="https://www.zhihu.com/question/50875630">This is a link</a>)
-微信“小程序”真的来了！移动端会炸吗？Native开发何去何从？(<a href="https://www.zhihu.com/question/50874710">This is a link</a>)
-微信的小程序会导致安卓和ios开发失业吗？(<a href="https://www.zhihu.com/question/50879269">This is a link</a>)
-微信小程序（应用号）是如何通过苹果审核的？(<a href="https://www.zhihu.com/question/50879437">This is a link</a>)
-做微信小程序的开发者，需要掌握哪些编程技能？(<a href="https://www.zhihu.com/question/50886759">This is a link</a>)
-媒体报道
-关于微信小程序（应用号），我能透露的几个细节(<a href="https://kenengba.com/post/3515.html">This is a link</a>)
-微信应用号来了，程序猿要涨工资了！(<a href="http://www.pmcaff.com/article/index/411074173930624">This is a link</a>)
-微信推出小程序应用号，移动互联网第二春会来吗？(<a href="http://36kr.com/topics/98">This is a link</a>)
-一篇文章读懂微信小程序(应用号)是什么，是否值得投入进来做？(<a href="http://www.woshipm.com/it/417887.html">This is a link</a>)
-你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(<a href="https://www.huxiu.com/article/164700.html">This is a link</a>)
-微信应用号正式公开，一个开放的微信已经上路？(<a href="https://www.huxiu.com/article/164634.html">This is a link</a>)
-一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？(<a href="https://www.huxiu.com/article/164679.html">This is a link</a>)
-一张图看懂微信“小程序”(<a href="http://wenda.louqun.com/article/107593">This is a link</a>)
-关于微信小程序，我联想到的几点(<a href="https://zi.com/w/a/b32fJp">This is a link</a>)
-你想做个怎样的微信小程序？(<a href="http://www.880917.com/wang/10850.html">This is a link</a>)
-微信小程序动了谁的蛋糕,又会把蛋糕分给谁?(<a href="http://it.sohu.com/20160922/n468981595.shtml">This is a link</a>)
-文章
-从程序员的角度分析微信小程序(<a href="http://blog.csdn.net/yulianlin/article/details/52621413">This is a link</a>)
-微信小程序，一个有局限的类似 React Native 轮子！(<a href="http://www.jianshu.com/p/060c6f3dd4e8">This is a link</a>)
-关于微信小程序（应用号）的底层逻辑分析和拥抱建议(<a href="https://zhuanlan.zhihu.com/p/22565340">This is a link</a>)
-微信小程序常见问题汇总 微信小程序有什么功能 如何申请？(<a href="http://kulianw.com/keji/201609/18558.html">This is a link</a>)
-关于微信小程序（应用号）的全部看法(<a href="http://www.jianshu.com/p/f8266c940eaf">This is a link</a>)
-微信应用号相关资料集合(<a href="http://www.jianshu.com/p/597de915ef68">This is a link</a>)
-封闭一周开发微信应用号（小程序）(<a href="https://www.v2ex.com/t/308005#reply17">This is a link</a>)
-微信应用号「小程序」最全的Q&A列表(<a href="http://t.cn/RcYXD4Q">This is a link</a>)
-为什么要发布微信应用号(<a href="http://t.cn/RcYXsoP">This is a link</a>)
-微信小程序，仅仅是 Web App 么？(<a href="http://t.cn/RcYowhy">This is a link</a>)
-作为工程师和产品经理以及互联网从业者，要保持技术的敏感度，无论你是否会参与和使用「小程序」，至少应该关注一下。
-</p>
+<a href="https://github.com/Aufree/awesome-wechat-weapp">https://github.com/Aufree/awesome-wechat-weapp</a></p>
+<h3>内容摘录如下：</h3>
+<p>开源项目</p>
+<p>wechatApp-demo(<a href="https://github.com/xwartz/wechatApp-demo">https://github.com/xwartz/wechatApp-demo</a>) - 微信小程序 DEMO</p>
+<p>weapp-ide-crack(<a href="https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md">https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md</a>) - 微信小应用资源破解</p>
+<p>API(<a href="https://github.com/gztchan/wechat-mini-app/tree/master/page/API">https://github.com/gztchan/wechat-mini-app/tree/master/page/API</a>) - API 文档</p>
+<p>weapp-quick(<a href="https://github.com/phodal/weapp-quick">https://github.com/phodal/weapp-quick</a>) - 微信小应用示例代码</p>
+<h3>文档</h3>
+<p>简易教程(<a href="http://wxopen.notedown.cn/">http://wxopen.notedown.cn/</a>)</p>
+<p>开发者工具文档(<a href="http://wxopen.notedown.cn/devtools/devtools.html">http://wxopen.notedown.cn/devtools/devtools.html</a>)</p>
+<p>API 文档(<a href="http://wxopen.notedown.cn/api/">http://wxopen.notedown.cn/api/</a>)</p>
+<p>视图组件文档(<a href="http://wxopen.notedown.cn/component/">http://wxopen.notedown.cn/component/</a>)</p>
+<p>常见问题(<a href="http://wxopen.notedown.cn/qa/qa.html">http://wxopen.notedown.cn/qa/qa.html</a>)</p>
+<h3>教程</h3>
+<p>微信小程序开发文档(<a href="http://wxopen.notedown.cn/">http://wxopen.notedown.cn</a>)</p>
+<p>微信公众平台 API 文档 - GitHub(<a href="https://github.com/Notedown-cn/wxopen">https://github.com/Notedown-cn/wxopen</a>)</p>
+<p>微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿(<a href="http://www.ifanr.com/721124">http://www.ifanr.com/721124</a>)</p>
+<p>首个微信小程序开发教程！(<a href="http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7">http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7</a>)</p>
+<p>抢先看：微信官方发布的微信应用号（小程序）设计规范(<a href="http://www.woshipm.com/ucd/418190.html">http://www.woshipm.com/ucd/418190.html</a>)</p>
+<p>开发微信小程序入门前(<a href="https://laravel-china.org/topics/2890">https://laravel-china.org/topics/2890</a>)</p>
+<p>微信小程序开发教程！(<a href="https://xituqu.com/508.html">https://xituqu.com/508.html</a>)</p>
+<p>微信小程序开发环境搭建(<a href="http://blog.csdn.net/xiehuimx/article/details/52629657">http://blog.csdn.net/xiehuimx/article/details/52629657</a>)</p>
+<p>全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！(<a href="https://my.oschina.net/wwnick/blog/750055">https://my.oschina.net/wwnick/blog/750055</a>)</p>
+<p>微信小程序「官方示例代码」浅析【上】(<a href="https://zhuanlan.zhihu.com/p/22574282">https://zhuanlan.zhihu.com/p/22574282</a>)</p>
+<p>微信小程序「官方示例代码」浅析【下】(<a href="https://zhuanlan.zhihu.com/p/22579053">https://zhuanlan.zhihu.com/p/22579053</a>)</p>
+<h3>知乎讨论</h3>
+<p>如何评价 9 月 21 日开始内测的「微信小程序」？(<a href="https://www.zhihu.com/question/50874500">https://www.zhihu.com/question/50874500</a>)</p>
+<p>如何看待微信将推应用号？(<a href="https://www.zhihu.com/question/39374074">https://www.zhihu.com/question/39374074</a>)</p>
+<p>微信小程序（应用号）价值是什么？(<a href="https://www.zhihu.com/question/50875544">https://www.zhihu.com/question/50875544</a>)</p>
+<p>开始内测的「微信公众平台 · 小程序」可能有哪些应用场景？(<a href="https://www.zhihu.com/question/50871887">https://www.zhihu.com/question/50871887</a>)</p>
+<p>微信小程序（应用号）来了，对创业者来说到底是不是好机会？(<a href="https://www.zhihu.com/question/50885176">https://www.zhihu.com/question/50885176</a>)</p>
+<p>微信小程序的出现会给前端开发带来什么？(<a href="https://www.zhihu.com/question/50900987">https://www.zhihu.com/question/50900987</a>)</p></p>
+<p>微信应用号是否真能颠覆APP？(<a href="https://www.zhihu.com/question/50878415">https://www.zhihu.com/question/50878415</a>)</p>
+<p><p>在微信应用号（微信小程序）开发什么什么应用爆发概率大？(<a href="https://www.zhihu.com/question/50878674">https://www.zhihu.com/question/50878674</a>)</p>
+<p>如何获得「微信·小程序」的内测资格？(<a href="https://www.zhihu.com/question/50875630">https://www.zhihu.com/question/50875630</a>)</p>
+<p>微信“小程序”真的来了！移动端会炸吗？Native开发何去何从？(<a href="https://www.zhihu.com/question/50874710">https://www.zhihu.com/question/50874710</a>)</p>
+<p>微信的小程序会导致安卓和ios开发失业吗？(<a href="https://www.zhihu.com/question/50879269">https://www.zhihu.com/question/50879269</a>)</p>
+<p>微信小程序（应用号）是如何通过苹果审核的？(<a href="https://www.zhihu.com/question/50879437">https://www.zhihu.com/question/50879437</a>)</p>
+<p>做微信小程序的开发者，需要掌握哪些编程技能？(<a href="https://www.zhihu.com/question/50886759">https://www.zhihu.com/question/50886759</a>)</p>
+<h3>媒体报道</h3>
+<p>关于微信小程序（应用号），我能透露的几个细节(<a href="https://kenengba.com/post/3515.html"><a href="https://kenengba.com/post/3515.html</a>)</p>
+<p>微信应用号来了，程序猿要涨工资了！(<a href="http://www.pmcaff.com/article/index/411074173930624">http://www.pmcaff.com/article/index/411074173930624</a>)</p>
+<p>微信推出小程序应用号，移动互联网第二春会来吗？(<a href="http://36kr.com/topics/98">http://36kr.com/topics/98</a>)</p>
+<p>一篇文章读懂微信小程序(应用号)是什么，是否值得投入进来做？(<a href="http://www.woshipm.com/it/417887.html">http://www.woshipm.com/it/417887.html</a>)</p>
+<p>你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(<a href="https://www.huxiu.com/article/164700.html">https://www.huxiu.com/article/164700.html</a>)</p>
+<p>微信应用号正式公开，一个开放的微信已经上路？(<a href="https://www.huxiu.com/article/164634.html">https://www.huxiu.com/article/164634.html</a>)</p>
+<p>一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？(<a href="https://www.huxiu.com/article/164679.html">https://www.huxiu.com/article/164679.html</a>)</p>
+<p>一张图看懂微信“小程序”(<a href="http://wenda.louqun.com/article/107593">http://wenda.louqun.com/article/107593</a>)</p>
+<p>关于微信小程序，我联想到的几点(<a href="https://zi.com/w/a/b32fJp">https://zi.com/w/a/b32fJp</a>)</p>
+<p>你想做个怎样的微信小程序？(<a href="http://www.880917.com/wang/10850.html">http://www.880917.com/wang/10850.html</a>)</p>
+<p>微信小程序动了谁的蛋糕,又会把蛋糕分给谁?(<a href="http://it.sohu.com/20160922/n468981595.shtml">http://it.sohu.com/20160922/n468981595.shtml</a>)</p>
+<h3>文章</h3>
+<p>从程序员的角度分析微信小程序(<a href="http://blog.csdn.net/yulianlin/article/details/52621413">http://blog.csdn.net/yulianlin/article/details/52621413</a>)</p>
+<p>微信小程序，一个有局限的类似 React Native 轮子！(<a href="http://www.jianshu.com/p/060c6f3dd4e8">http://www.jianshu.com/p/060c6f3dd4e8</a>)</p>
+<p>关于微信小程序（应用号）的底层逻辑分析和拥抱建议(<a href="https://zhuanlan.zhihu.com/p/22565340">https://zhuanlan.zhihu.com/p/22565340</a>)</p>
+<p>微信小程序常见问题汇总 微信小程序有什么功能 如何申请？(<a href="http://kulianw.com/keji/201609/18558.html">http://kulianw.com/keji/201609/18558.html</a>)</p>
+<p>关于微信小程序（应用号）的全部看法(<a href="http://www.jianshu.com/p/f8266c940eaf">http://www.jianshu.com/p/f8266c940eaf</a>)</p>
+<p>微信应用号相关资料集合(<a href="http://www.jianshu.com/p/597de915ef68">http://www.jianshu.com/p/597de915ef68</a>)</p>
+<p>封闭一周开发微信应用号（小程序）(<a href="https://www.v2ex.com/t/308005#reply17">https://www.v2ex.com/t/308005#reply17</a>)</p>
+<p>微信应用号「小程序」最全的Q&A列表(<a href="http://t.cn/RcYXD4Q">http://t.cn/RcYXD4Q</a>)</p>
+<p>为什么要发布微信应用号(<a href="http://t.cn/RcYXsoP">http://t.cn/RcYXsoP</a>)</p>
+<p>微信小程序，仅仅是 Web App 么？(<a href="http://t.cn/RcYowhy">http://t.cn/RcYowhy</a>)</p>
+<br/>作为工程师和产品经理以及互联网从业者，要保持技术的敏感度，无论你是否会参与和使用「小程序」，至少应该关注一下。
 
 </body>
 </html>
